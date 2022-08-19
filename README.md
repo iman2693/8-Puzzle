@@ -2,7 +2,7 @@
 8-Puzzle Solver with DFS , BFS , IDS , UCS , A* , IDA* , Bidirectional A* strategies With Linear Conflict Hiruestic Function.
 
 ## RUN
-The main class is Puzzle.java and there are some instances for initial state in this file. also there is a goal state in this file.
+The main class is Puzzle.java and there are some instances for the initial state in this file. also, there is a goal state in this file.
 
 ## 8-Puzzle instances
 ### easy instances from 1 to 10 moves	 
