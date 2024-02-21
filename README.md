@@ -1,9 +1,32 @@
-# 8-Puzzle
-8-Puzzle Solver with DFS , BFS , IDS , UCS , A* , IDA* , Bidirectional A* strategies With Linear Conflict Hiruestic Function.
+# About 8-Puzzle Solver
 
-## RUN
-The main class is Puzzle.java and there are some instances for the initial state in this file. also, there is a goal state in this file.
+The 8-Puzzle Solver is a comprehensive solution to the classic 8-Puzzle problem. This project, hosted on [GitHub](https://github.com/iman2693/8-Puzzle), is developed by `iman2693`.
 
+## Features
+
+The 8-Puzzle Solver employs a variety of search strategies to solve the 8-Puzzle problem. These strategies include:
+
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Iterative Deepening Search (IDS)
+- Uniform Cost Search (UCS)
+- A* Search
+- Iterative Deepening A* (IDA*)
+- Bidirectional A* Search
+
+In addition to these search strategies, the solver also utilizes the Linear Conflict Heuristic function to enhance the efficiency of the puzzle-solving process.
+
+## Usage
+
+The main class of the project is `Puzzle.java`. This file contains instances for the initial state of the puzzle, as well as the goal state. To use the solver, simply run the `Puzzle.java` file.
+
+## Contribution
+
+Contributions to the 8-Puzzle Solver are welcome. Feel free to fork the project, make your changes, and submit a pull request.
+
+## License
+
+Please see the [GitHub repository](https://github.com/iman2693/8-Puzzle) for information on the project's license.
 ## 8-Puzzle instances
 ### easy instances from 1 to 10 moves	 
 		 int[] puzzle1 = { 1,2,3,-1,7,6,5,4,8 };
